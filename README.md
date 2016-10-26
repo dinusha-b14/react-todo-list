@@ -5,4 +5,5 @@ A simple React todo list application created using the create-react-app npm modu
 
 To run the application, clone this repository and then run:
 
-`npm start`
+    npm install
+    npm start
